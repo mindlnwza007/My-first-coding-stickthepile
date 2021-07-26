@@ -7,8 +7,8 @@ Created on Mon Jul 26 00:19:33 2021
 
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jul 18 13:33:23 2021
-Hw02_Human vs python stick taker
+Created on Sun Jul 25 18:30:31 2021
+Hw03_stickthepile
 @author: Mind
 """
 
